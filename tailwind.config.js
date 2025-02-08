@@ -17,7 +17,10 @@ module.exports = {
       height:{
         box: '189.6px',
         boxlg:'230px',
-      }
+      },
+      width: {
+        '24': '24%', // Add a custom width class
+      },
     },
   },
   plugins: [],
